@@ -25,3 +25,15 @@ body {
   display: block;
   width: 100%;
 }
+
+.grid {
+  overflow: hidden;
+}
+
+.unit {
+  float: left;
+}
+
+.xs-1 {
+  width: 100%;
+}
